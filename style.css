@@ -295,7 +295,7 @@ nav .material-symbols-outlined{
   /*----------css for small screen-------*/
   @media only screen and (max-width: 600px){
     #header{
-      background-image: url('C:/Users/MOHANAPRIYA/Desktop/portfolio/pic for mobile2.jpeg');
+      background-image: url('pic for desktop.jpeg');
     }
     .header-text{
       margin-top: 350%;
