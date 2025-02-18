@@ -305,7 +305,22 @@ nav .material-symbols-outlined{
     .header-text h1{
       font-size: 30px;
     }
-    
+      .header-text h1 span{
+    color:  red;
+    font-family: "Bebas Neue", serif;
+  }
+  .header-text p{
+    font-size: 25px;
+    font-family: "Bebas Neue", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-top: 10px;
+    color: white;
+  }
+  .header-text p span{
+    color:red;
+    font-family: "Bebas Neue", serif;
+  }
        
        
       
